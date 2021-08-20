@@ -1,0 +1,12 @@
+{
+  "name": "file-compactor",
+  "version": "1.0.0",
+  "description": "File compactor using AVLTree",
+  "main": "index.js",
+  "scripts": {
+    "zip": "node ./run/zip.js",
+    "unzip": "node ./run/unzip.js"
+  },
+  "author": "Luan Magioli and Dalania Silva",
+  "license": "ISC"
+}
